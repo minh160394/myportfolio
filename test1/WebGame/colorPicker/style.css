@@ -1,0 +1,66 @@
+.squaretop
+{
+    background: purple;
+    width: 30%;
+    float: left;
+    padding-bottom:15%;
+    margin-left: 1.66%;
+    text-align: center;
+    border-radius: 15%;
+}
+
+#containertop{
+      margin: 20px auto;
+      max-width: 600px;
+      height: 120px;
+}
+body{
+    background: #e9e2e2;
+    margin: 0;
+}
+.buttonhandler{
+     
+    width: 100%;
+ 
+}
+.selectedbutton{
+    color: white;
+    background: blue;
+}
+#containermid{
+    text-align: center;
+    background: white;
+}
+div{
+    display: block;
+}
+button{
+    border: none;
+    background: none;
+    height: 100%;
+    font-weight: 700;
+    color: steelblue;
+    letter-spacing: 1px;
+    font-size: inherit;
+    outline:none;
+}
+button:hover{
+    color: white;
+    background: blue;
+}
+#containerbot{
+    
+    
+    margin: 20px auto;
+    max-width: 600px;
+}
+.squarebot
+{
+    background: purple;
+    width: 30%;
+    float: left;
+    padding-bottom: 30%;
+    margin: 1.66%;
+    text-align: center;
+    border-radius: 50%;
+}
